@@ -19,4 +19,4 @@ Projeto Base para Testes - .Net Core
 
 ## Alterações feitas
 
-Criado o teste *DoacaoUI_CriacaoDoacaoCamposPreenchidos* para teste se quando os campos são preenchidos corretamente, a doação realmente é contabilizada e o usuário é redirecionado à página home.
+Criado o teste *DoacaoUI_CriacaoDoacaoCamposPreenchidos* para testar se quando os campos são preenchidos corretamente, a doação realmente é contabilizada e o usuário é redirecionado à página home.
